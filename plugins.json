@@ -1,0 +1,15 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/kudretyigit48-bit/Eceplay/main/ExampleProvider.cs3",
+    "status": 1,
+    "version": 1,
+    "apiVersion": 1,
+    "name": "Eceplay",
+    "internalName": "ExampleProvider",
+    "authors": ["Eceplay"],
+    "description": "Eceplay V1 test video eklentisi",
+    "repositoryUrl": "https://github.com/kudretyigit48-bit/Eceplay",
+    "language": "tr",
+    "tvTypes": ["Movie"]
+  }
+]
