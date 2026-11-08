@@ -1,1 +1,8 @@
-
+{
+  "name": "Eceplay",
+  "description": "Kisisel CloudStream eklenti deposu",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/kudretyigit48-bit/Eceplay/main/plugins.json"
+  ]
+}
